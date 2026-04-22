@@ -10,9 +10,4 @@
   About Me:
 </h2>
 
-Mobile developer with over 5 years of commercial experience, specializing in Android development using Kotlin. I have contributed to the development of large-scale multi-module applications and created custom low-level solutions such as a streaming video player and a WebSocket library. I pay particular attention to UI and animations.
-
-For over 10 years, I have also worked as a freelance graphic designer, which helps me implement complex interfaces, thoughtful animations, and visual effects.
-
-I’m an advocate of clean architecture, readable code, and continuous professional growth. In my projects, I actively use modern development practices, build internal tools and libraries, and share knowledge with the team.
- 
+Android developer with 6+ years of commercial experience, focused not only on writing code but also on building and evolving mobile products in a sustainable way. I design application architecture, improve code quality and maintainability, refactor complex legacy systems, and help teams follow a consistent technical direction. I have experience in lead roles, launching apps from scratch, and developing production solutions in domains with high reliability and security requirements. My core stack includes Kotlin, Java, Jetpack Compose, and modular architecture. I am also active in open source, building libraries that are used by other teams and companies. According to Maven Central analytics, my libraries are adopted by more than 50 unique companies. I value clear engineering decisions, clean code, and long-term product sustainability.
