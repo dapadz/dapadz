@@ -10,4 +10,10 @@
   About Me:
 </h2>
 
-Android developer with 6+ years of commercial experience, focused not only on writing code but also on building and evolving mobile products in a sustainable way. I design application architecture, improve code quality and maintainability, refactor complex legacy systems, and help teams follow a consistent technical direction. I have experience in lead roles, launching apps from scratch, and developing production solutions in domains with high reliability and security requirements. My core stack includes Kotlin, Java, Jetpack Compose, and modular architecture. I am also active in open source, building libraries that are used by other teams and companies. According to Maven Central analytics, my libraries are adopted by more than 50 unique companies. I value clear engineering decisions, clean code, and long-term product sustainability.
+Android Developer with 6+ years of commercial experience in building reliable and maintainable mobile products.
+
+I enjoy working on architecture, improving code quality, simplifying complex legacy systems, and helping teams keep a strong technical foundation as products grow. I have experience leading development, launching apps from scratch, and working in domains where reliability and security are critical.
+
+My main technologies are **Kotlin**, **Java**, **Jetpack Compose**, and **modular architecture**. I am also active in open source and build libraries that are already used by **50+ unique companies**, based on Maven Central analytics.
+
+I believe in clean code, pragmatic architecture, and engineering decisions that support long-term product growth.
